@@ -1,0 +1,35 @@
+
+.quicktabs_main.quicktabs-style-basic{
+  border-top:none;
+  padding:10px 0;
+  clear:both;
+}
+ul.quicktabs-tabs.quicktabs-style-basic{
+  padding:0 5px 0 0;
+  font:bold 12px/26px Tahoma !important;
+  font-weight:bold;
+  height:26px;
+  margin:-31px 0 0 211px;
+  background:#EAEAEA ;
+}
+ul.quicktabs-tabs.quicktabs-style-basic a{
+  font:bold 11px/26px Tahoma;
+  text-decoration:none;
+  color:#111;
+}
+ul.quicktabs-tabs.quicktabs-style-basic a:hover{
+  color:#0954C4;
+}
+ul.quicktabs-tabs.quicktabs-style-basic li{
+  border-bottom:none;
+  padding:5px 10px;
+  margin:0;
+  position:relative;
+}
+ul.quicktabs-tabs.quicktabs-style-basic li:hover{
+  border-bottom:none;
+}
+
+ul.quicktabs-tabs.quicktabs-style-basic li.active a{
+  color:#0954C4;
+}
